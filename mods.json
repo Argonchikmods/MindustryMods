@@ -13,7 +13,7 @@
   },
   {
     "repo": "aureusstratus/exogenesis",
-    "internalName": "exogenesis",
+    "internalName": "Exotix",
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
@@ -10125,7 +10125,7 @@
     "minGameVersion": "149",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Mindustry: Evil Edition"
+    "description": "Argonchikdustry"
   },
   {
     "repo": "unknownobjectv2/camellia-music-sfx-pack",
